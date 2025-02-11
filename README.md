@@ -57,8 +57,6 @@ This Docker Compose file sets up a multi-container application with Nginx, Djang
 
 ## Credits
 
-<h2>Credits</h2>
-
 <p style="font-size: 16px;">
 While we built the Dockerfile and Docker Compose configurations from scratch to learn and apply Docker skills, the original credit for the application goes to Londhe Shubham.
 </p>
