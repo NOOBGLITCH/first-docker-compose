@@ -51,7 +51,7 @@ This Docker Compose file sets up a multi-container application with Nginx, Djang
 ### Networks
 - **notes-app**: Custom network for the application.
 
-Here's the revised section:
+
 
 ---
 
@@ -70,3 +70,30 @@ While we built the Dockerfile and Docker Compose configurations from scratch to 
 ```
 https://github.com/LondheShubham153/django-notes-app
 ```
+
+---
+
+**Technologies Used**
+
+- **Docker**: 
+- **Docker Compose**: 
+- **Blackbox.ai**: 
+- **GitHub Codespaces**: 
+- **Gitpod**: 
+- **CodeSandbox**: 
+
+
+ <p style="font-size: 16px;">
+  <strong>Pro Tips</strong>
+
+<ul style="font-size: 16px;">
+  <li >Avoid using Docker on a local PC due to potential errors and resource limitations.</li>
+  <li>Opt for cloud-based solutions like GitHub Codespaces, Gitpod, or CodeSandbox.</li>
+  <li>These platforms are optimized for Docker and provide a smoother development experience.</li>
+  <li>They offer better performance and fewer errors compared to running Docker locally.</li>
+</ul>
+
+  </ul>
+</p>
+
+---
