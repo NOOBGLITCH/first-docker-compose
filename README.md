@@ -53,7 +53,6 @@ This Docker Compose file sets up a multi-container application with Nginx, Djang
 
 
 
----
 
 ## Credits
 
